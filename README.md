@@ -1,5 +1,4 @@
 # Angular 5 Basic Demo CRUD Application/Project for Beginners
-### Created By [Sangwin Gawande](http://imsangwin.com)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
